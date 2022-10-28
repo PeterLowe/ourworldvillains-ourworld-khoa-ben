@@ -5,12 +5,14 @@ Compiled by Ben Murphy [BM]
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America 
 Land of the free and the home of the brave.
----- Canada
+---- Canada [KV]
 I love watching hockey in Canada
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France 
 Ooh la la! 
+---- France [KV]
+It is peacefully to eat pain in French but not in English
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt 
@@ -19,6 +21,8 @@ Home of the Pyramids
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China 
 Great Wall of China seen from space
+------ Vietnam 
+Heaven of foods.
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand 
