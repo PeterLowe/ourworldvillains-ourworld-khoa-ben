@@ -1,12 +1,15 @@
-Ben Murphy
-
-
 Compiled by Peter Lowe [PL]
+=======
+Compiled by Khoa Vo [KV]
+Compiled by Ben Murphy [BM]
+>>>>>>> a60f42c1356d0593b07fc88b6564d42afcb33493
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
----- United States of America [pl]
+---- United States of America 
 Land of the free and the home of the brave.
+---- Canada
+I love watching hockey in Canada
 
 --------------Canada   (EN)
 Maple syrup Yeaaah!!!!
@@ -20,8 +23,10 @@ Brazil discovered gold for the first time in 1695, and furnished a large portion
 ---------------Argentina
 where Hitler escaped too.
 
+---------------
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
----- France [pl]
+---- France 
 Ooh la la! 
 
 --------------Germany
@@ -34,7 +39,7 @@ Italy is home to two microstates, San Marino and Vatican City
 Ireland is one of the biggest exporters of potatoes, lamb and beef
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
------ Egypt [pl]
+----- Egypt 
 Home of the Pyramids
 
 -----Ethiopia
@@ -47,7 +52,7 @@ Because of Madagascar's deep red color, the country is often called the Great Re
 Scientists believe that Kenya may have been the birthplace of human beings.
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
------- China [pl]
+------ China 
 Great Wall of China seen from space
 
 ------Japan 
@@ -60,7 +65,7 @@ Was home of gengis khan
 The word “ketchup” in English comes from the Indonesian word kecap, which is a sweet soy sauce
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
------ GreenLand [pl]
+----- GreenLand 
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
 
