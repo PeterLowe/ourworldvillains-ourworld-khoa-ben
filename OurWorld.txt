@@ -1,5 +1,6 @@
 Compiled by Khoa Vo [KV]
 Compiled by Ben Murphy [BM]
+>>>>>>> a60f42c1356d0593b07fc88b6564d42afcb33493
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
@@ -8,15 +9,50 @@ Land of the free and the home of the brave.
 ---- Canada [KV]
 I love watching hockey in Canada
 
+--------------Canada   (EN)
+Maple syrup Yeaaah!!!!
+
+--------------Mexico
+What today is Mexico City was the Aztec capital of Tenochtitlan (BM)
+
+--------------Brazil
+Brazil discovered gold for the first time in 1695, and furnished a large portion of the world’s gold reserve during the 18th century. (BM)
+
+---------------Argentina
+where Hitler escaped too. (BM)
+
+---------------
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France 
 Ooh la la! 
 ---- France [KV]
 It is peacefully to eat pain in French but not in English
+=======
+Ooh la la!
+
+--------------Germany
+Sausages and beer!!!! (BM)
+
+--------------Italy
+Italy is home to two microstates, San Marino and Vatican City (BM)
+
+--------------Ireland
+Ireland is one of the biggest exporters of potatoes, lamb and beef(BM)
+>>>>>>> master
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt 
 Home of the Pyramids
+
+-----Ethiopia
+first camels and donkeys domesticated (BM)
+
+-----madagascar
+Because of Madagascar's deep red color, the country is often called the Great Red Island (BM)
+
+-----Kenya
+Scientists believe that Kenya may have been the birthplace of human beings. (BM)
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China 
@@ -24,7 +60,25 @@ Great Wall of China seen from space
 ------ Vietnam [KV]
 Heaven of foods.
 
+------Japan 
+Invented BILK an alcoholic beverage made from milk (BM)
+
+-------Mongolia
+Was home of gengis khan (BM)
+
+-------Indonesia
+The word “ketchup” in English comes from the Indonesian word kecap, which is a sweet soy sauce(BM)
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand 
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+
+------Australia
+Australia is home to 1,500 types of spiders (BM)
+
+------Iraq
+Saddam Hussein was hanged on December 30, 2006, for crimes against humanity (BM)
+
+------Isreal
+Israel is the only country in the world that has a mandatory military service requirement for women. (BM)
